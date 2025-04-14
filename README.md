@@ -58,7 +58,7 @@ phishing-demo/
 1. Push this repo to GitHub
 2. Go to **Settings > Pages**
 3. Choose source: `main` branch, root folder (`/`)
-4. Visit: `https://yourusername.github.io/phishing-demo/`
+4. ✅ Your site is live at: [https://hyugared.github.io/phishing-demo/](https://hyugared.github.io/phishing-demo/)
 
 ---
 
