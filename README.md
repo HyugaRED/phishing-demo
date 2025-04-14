@@ -90,7 +90,8 @@ Keep it ethical. Never misuse.
 
 ## 💜 Creator
 
-Built by **Hyuga** — Red Team operator in training, cyber tactician, and builder of immersive tools for ethical awareness.
+
+Made with caffeine, frustration and focus by **Hyuga**
 
 > "We don't fake to steal. We simulate to teach."
 
