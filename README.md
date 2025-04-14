@@ -55,10 +55,7 @@ phishing-demo/
 
 ## 🌐 Deploy via GitHub Pages
 
-1. Push this repo to GitHub
-2. Go to **Settings > Pages**
-3. Choose source: `main` branch, root folder (`/`)
-4. ✅ Your site is live at: [https://hyugared.github.io/phishing-demo/](https://hyugared.github.io/phishing-demo/)
+✅ The site is live at: [https://hyugared.github.io/phishing-demo/](https://hyugared.github.io/phishing-demo/)
 
 ---
 
